@@ -1,0 +1,6 @@
+{
+  "name": "Crater Invoice Enterprise - Laravel MVC & XAMPP Ready",
+  "description": "Aplikasi Invoice standar perusahaan berbasis web responsif mirip Crater Invoice dengan sistem Faktur, Penawaran, Klien, Pembayaran, Cetak PDF, Generator SQL XAMPP, dan Kode Sumber Laravel MVC untuk pemula.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
